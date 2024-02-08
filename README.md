@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a Data Analyst with a curiosity to extract insights from any Data's
+I'm a Data Analyst with a curiosity to extract insights from any Data's.
+
 Outside of coding, I love pushing my limits with strength training 🏋️‍♀️,reading Informative Contents
 
 ## 🛠️ Skills
