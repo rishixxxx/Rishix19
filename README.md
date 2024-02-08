@@ -24,6 +24,8 @@ Outside of coding, I love pushing my limits with strength training 🏋️‍♀
 
 ## 📌 Stats
 
+
+
 ## 🤝 Let's connect!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishix19)
