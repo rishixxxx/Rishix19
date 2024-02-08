@@ -24,6 +24,8 @@ Outside of coding, I love pushing my limits with strength training 🏋️‍♀
 
 ## 📌 Stats
 
+[![Python Projects](https://img.shields.io/badge/Python_Projects-See_My_Repo-green?style=for-the-badge)](https://github.com/YourGitHubUsername)
+
 
 
 ## 🤝 Let's connect!
