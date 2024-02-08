@@ -22,5 +22,6 @@ Outside of coding, I love pushing my limits with strength training 🏋️‍♀
 ## 🤝 Let's connect!
 
 - LinkedIn (www.linkedin.com/in/rishix19)
-- Instagram (instagram.com/rishix_19)
+- Instagram (instagram.com/rishix_19/)
+
 Reach out if you'd like to collaborate! I'm always open to new opportunities.
