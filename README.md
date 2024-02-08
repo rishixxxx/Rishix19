@@ -25,7 +25,7 @@ Outside of coding, I love pushing my limits with strength training 🏋️‍♀
 
 ## 🤝 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishix19)
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) (www.instagram.com/rishix_19/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishix19)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishix_19/)
 
 Reach out if you'd like to collaborate! I'm always open to new opportunities.
