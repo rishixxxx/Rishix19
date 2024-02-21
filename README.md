@@ -4,8 +4,7 @@
 
 I'm a Data Analyst with a curiosity to extract insights from any Data's.
 
-Outside of coding, I love pushing my limits with strength training 🏋️‍♀️ and reading Informative Contents
-
+Outside of coding, I love pushing my limits with strength training 🏋️‍♀️ and reading and learning anything that excites me.
 ## 🛠️ Skills
 
 **Languages**
